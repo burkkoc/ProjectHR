@@ -1,0 +1,6 @@
+@IKProject.WebApii_HostAddress = http://localhost:5005
+
+GET {{IKProject.WebApii_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
